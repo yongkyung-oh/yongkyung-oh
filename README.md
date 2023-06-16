@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Dr. YongKyung Oh is a postdoctoral researcher at the Industry Intelligentization Institute at the Ulsan National Institute of Science and Technology (UNIST)
-
+Dr. YongKyung Oh is a postdoctoral researcher at the Industry Intelligentization Institute at the Ulsan National Institute of Science and Technology (UNIST).
 Look around my previous works: [portfolio website](https://yongkyung-oh.github.io/). 
 
 ![Profile views](https://gpvc.arturio.dev/yongkyung-oh)
